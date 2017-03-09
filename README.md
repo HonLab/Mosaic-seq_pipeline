@@ -27,4 +27,4 @@ This pipeline is written to satify the computational environment in the BioHPC s
     
 ##General Workflow:
 
-Fastq Files ----> Mapping (Standard Drop-seq pipeline with some modifications) ----> Get the sgRNA barcodes information ----> split single cell files based on the barcodes info ----> Normalization and re-organization of data ----> Hits calling
+Fastq Files ----> Mapping (Standard Drop-seq pipeline with some modifications) ----> Get the sgRNA barcodes information ----> split single cell files based on the barcodes info ----> Normalization and re-organization of data ----> Hits calling (Virtual FACS)
