@@ -14,14 +14,14 @@ This pipeline is written to satify the computational environment in the BioHPC s
 
 Requirements: 
 ==============
-  * Drop-seq pipeline: http://mccarrolllab.com/dropseq/
-  * star: https://github.com/alexdobin/STAR
-  * picard: https://broadinstitute.github.io/picard/
-  * samtools: http://samtools.sourceforge.net/
-  * Matlab
-  * Python package requirement: Numpy, Scipy, Matplotlib, pysam
-  * R package requirement: ggplot2, reshape2
+  * [Drop-seq pipeline](http://mccarrolllab.com/dropseq/)
+  * [Star](https://github.com/alexdobin/STAR)
+  * [Picard](https://broadinstitute.github.io/picard/)
+  * [Samtools](http://samtools.sourceforge.net/)
+  * [Bedtools](http://bedtools.readthedocs.io/en/latest/)
+  * Matlab 2016a
+  * Python package requirement: [Numpy](http://www.numpy.org/), [Scipy](https://www.scipy.org/), [Pysam](http://pysam.readthedocs.io/en/latest/api.html)
+  * R package requirement: [ggplot2](http://ggplot2.org/), [reshape2](https://cran.r-project.org/web/packages/reshape2/reshape2.pdf)
     
 General Workflow:
 =================
-
