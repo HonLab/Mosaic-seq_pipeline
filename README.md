@@ -18,4 +18,10 @@ Requirements:
   * star: https://github.com/alexdobin/STAR
   * picard: https://broadinstitute.github.io/picard/
   * samtools: http://samtools.sourceforge.net/
-  * matlab
+  * Matlab
+  * Python package requirement: Numpy, Scipy, Matplotlib, pysam
+  * R package requirement: ggplot2, reshape2
+    
+General Workflow:
+=================
+
