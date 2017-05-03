@@ -96,7 +96,7 @@ foreach lib (`ls -d *.norm`)
     tail -n+2 ./sorted/$lib/combined.all.uniq.vals\
 	> ./sorted/$lib/combined.all.uniq.vals.no_header
 
-    #normalize the data by the meidan of each gene
+    #normalize the data 
     cd ./sorted/$lib/
     cp ../../*.m .
     matlab -nodesktop -nosplash -nodisplay < normalization.m
